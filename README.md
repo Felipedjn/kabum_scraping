@@ -1,7 +1,5 @@
 Script web scraping de produtos da Kabum. Construído em Python 3.10.
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Felipedjn/kabum_scraping/blob/main/LICENSE)
-
 # Instalação
 
 - pip install requests
