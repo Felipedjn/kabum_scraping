@@ -1,6 +1,6 @@
 Script web scraping de produtos da Kabum. Construído em Python 3.10.
 
-# Instalação
+## Instalação
 
 - pip install requests
 - pip install bs4
