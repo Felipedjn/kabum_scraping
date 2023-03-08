@@ -8,7 +8,7 @@ Script web scraping de produtos da Kabum. Construído em Python 3.10.
 - pip install pandas
 - pip install math
 
-# Como pesquisar um item
+## Como pesquisar um item
 
 No campo "pesquisa" adicione o item que você quer puxar
 
