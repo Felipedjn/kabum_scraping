@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 import math
-from selenium import webdriver
 
 #PESQUISA: SEMPRE SEPARAR COM -
 pesquisa = 'mesa-gamer'
